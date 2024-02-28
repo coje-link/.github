@@ -2,12 +2,12 @@
 
 Hello there! Welcome to our GitHub Organization. 
 
-We're just getting started here, so our shelves are a bit empty at the moment. But don't worry, we have some exciting projects brewing! 🚀
+We've just released publically the Coje engine, available on Linux today.We have some exciting projects brewing! 🚀
 
 ## What's Coming Up 🌟
 
-- **Coje Engine**: Get coding apps, game and tools with the Coje Engine. A ground up engine build written in C++ using CMake
-- **Axios Today**: Our first game made with the Coje Engine, voxel based sandbox!
+- **[Coje Engine](https://github.com/coje-link/coje)**: Get coding apps, game and tools with the Coje Engine. A ground up engine build written in C++ using CMake
+- **[Axios Today](https://github.com/coje-link/axios-today)**: Our first game made with the Coje Engine, voxel based sandbox!
 
 ## Stay Tuned 📻
 
@@ -19,7 +19,7 @@ Interested in collaborating or contributing? We love to see new faces around! Fe
 
 ## Contact Us 📬
 
-Got questions or suggestions? Contact Zeun at [mr.steven.french@gmail.com](mailto:mr.steven.french@gmail.com)
+Got questions or suggestions? Contact Zeun at [zeun@coje.link](mailto:zeun@coje.link)
 
 ---
 
