@@ -21,7 +21,7 @@ Interested in collaborating or contributing? We love to see new faces around! Fe
 
 ## Contact Us 📬
 
-Got questions or suggestions? Contact Zeun at [ZeunO8@proton.me](mailto:mr.steven.french@gmail.com)
+Got questions or suggestions? Contact Zeun at [ZeunO8@proton.me](mailto:ZeunO8@proton.me)
 
 ---
 
