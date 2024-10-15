@@ -7,7 +7,9 @@ We're just getting started here, so our shelves are a bit empty at the moment. B
 ## What's Coming Up 🌟
 
 - **Coje Engine**: Get coding apps, game and tools with the Coje Engine. A ground up engine build written in C++ using CMake
-- **Axios Today**: Our first game made with the Coje Engine, voxel based sandbox!
+- **Axios Today**: Our first game made with the Coje Engine, an open world massively multiplayer sandbox (OWMMS)!
+- **Boosted Web**: A variety of web protocol and language implementations aiming to become a fully fledged 3D web experience
+- **Coje Link**: Gamer-programmer-centric web services
 
 ## Stay Tuned 📻
 
@@ -19,7 +21,7 @@ Interested in collaborating or contributing? We love to see new faces around! Fe
 
 ## Contact Us 📬
 
-Got questions or suggestions? Contact Zeun at [mr.steven.french@gmail.com](mailto:mr.steven.french@gmail.com)
+Got questions or suggestions? Contact Zeun at [ZeunO8@proton.me](mailto:mr.steven.french@gmail.com)
 
 ---
 
